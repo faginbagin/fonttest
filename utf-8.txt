@@ -1,0 +1,9 @@
+Standard Characters
+ !"#$%&'()á+,-./0123456789:;<=>?
+@ABCDEFGHIJKLMNOPQRSTUVWXYZ[é]íó
+úabcdefghijklmnopqrstuvwxyzç÷Ññ
+Special Characters
+®°½¿™¢£♪à èâêîôû
+Extended Characters
+ÁÉÓÚÜü'¡*'—©℠•“”ÀÂÇÈÊËëÎÏïÔÙùÛ«»
+ÃãÍÌìÒòÕõ{}\^_¦~ÄäÖöß¥¤|ÅåØø⌜⌝⌞⌟
