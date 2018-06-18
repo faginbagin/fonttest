@@ -1,6 +1,6 @@
 # fonttest
 
-## Tool used to examine geometry of fonts available to Qt apps, like mythtv
+Tool used to examine geometry of fonts available to Qt apps, like mythtv
 
 ## Build as follows:
 qmake  
